@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adeindra94
 - 👀 I’m interested in computer vision
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning machine learning and deep learning
 - 📫 How to reach me ionthoni@gmail.com
 
 <!---
